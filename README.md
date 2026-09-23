@@ -1,10 +1,1 @@
-# myrepo
-
-oss repo
-
-
-
-test git.desktop
-
-click
-
+# myrepooss repotest git.desktophello.py
